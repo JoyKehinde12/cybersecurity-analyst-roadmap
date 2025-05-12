@@ -25,4 +25,4 @@ This repository documents my hands-on journey to becoming a Junior Cybersecurity
 - [ ] IBM Cybersecurity Analyst
 
 ## 💬 Connect with Me
-- LinkedIn: [YourName](https://linkedin.com/in/yourprofile)
+- LinkedIn: [YourName](https://linkedin.com/in/joy-kehinde-68446b107)
